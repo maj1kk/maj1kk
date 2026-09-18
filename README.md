@@ -1,8 +1,10 @@
 <div align="center">
 
+<hr>
+
 <img src="./banner.png" alt="MAJ1KK banner">
 
----
+<hr>
 
 # MAJ1KK
 
@@ -26,19 +28,54 @@ This GitHub is where I document that process — projects, experiments, engineer
 
 ---
 
+<div align="center">
+
 ## ⚙️ Areas of interest
 
-| Field | Focus |
-| :--- | :--- |
-| 🤖 **Robotics** | Robot systems, mechanisms, sensors and actuators |
-| 🧠 **Artificial Intelligence** | AI, machine learning and physical AI |
-| 🔌 **Electronics** | Circuits, sensors and hardware |
-| 💻 **Embedded Systems** | Microcontrollers, firmware and real-time systems |
-| 📐 **Control Systems** | Automation, feedback and motion control |
-| ⚛️ **Physics** | Fundamentals, modelling and engineering applications |
-| 🦾 **Human–Machine** | Interfaces, interaction and system integration |
-| 🧬 **Bio / Neuroengineering** | BCI, neurotechnology and biological systems |
-| 🛠️ **Manufacturing** | Prototyping, 3D printing and physical fabrication |
+<table>
+  <tr>
+    <th>Field</th>
+    <th>Focus</th>
+  </tr>
+  <tr>
+    <td align="center">🤖 <b>Robotics</b></td>
+    <td align="center">Robot systems, mechanisms, sensors and actuators</td>
+  </tr>
+  <tr>
+    <td align="center">🧠 <b>Artificial Intelligence</b></td>
+    <td align="center">AI, machine learning and physical AI</td>
+  </tr>
+  <tr>
+    <td align="center">🔌 <b>Electronics</b></td>
+    <td align="center">Circuits, sensors and hardware</td>
+  </tr>
+  <tr>
+    <td align="center">💻 <b>Embedded Systems</b></td>
+    <td align="center">Microcontrollers, firmware and real-time systems</td>
+  </tr>
+  <tr>
+    <td align="center">📐 <b>Control Systems</b></td>
+    <td align="center">Automation, feedback and motion control</td>
+  </tr>
+  <tr>
+    <td align="center">⚛️ <b>Physics</b></td>
+    <td align="center">Fundamentals, modelling and engineering applications</td>
+  </tr>
+  <tr>
+    <td align="center">🦾 <b>Human–Machine</b></td>
+    <td align="center">Interfaces, interaction and system integration</td>
+  </tr>
+  <tr>
+    <td align="center">🧬 <b>Bio / Neuroengineering</b></td>
+    <td align="center">BCI, neurotechnology and biological systems</td>
+  </tr>
+  <tr>
+    <td align="center">🛠️ <b>Manufacturing</b></td>
+    <td align="center">Prototyping, 3D printing and physical fabrication</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -112,11 +149,9 @@ Both belong here.
 
 ## 🧭 How I work
 
-My approach is fairly simple:
-
 <div align="center">
 
-**learn → build → test → break → understand → improve → repeat**
+### **learn → build → test → break → understand → improve → repeat**
 
 </div>
 
