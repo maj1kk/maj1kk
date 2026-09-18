@@ -1,10 +1,8 @@
 <div align="center">
 
-────────────────────────────────────────
+<img src="./helllooooo.png" alt="MAJ1KK banner">
 
-<img src="./banner.png" alt="MAJ1KK banner">
-
-────────────────────────────────────────
+---
 
 # MAJ1KK
 
@@ -31,7 +29,7 @@ This GitHub is where I document that process — projects, experiments, engineer
 ## ⚙️ Areas of interest
 
 | Field | Focus |
-|---|---|
+| :--- | :--- |
 | 🤖 **Robotics** | Robot systems, mechanisms, sensors and actuators |
 | 🧠 **Artificial Intelligence** | AI, machine learning and physical AI |
 | 🔌 **Electronics** | Circuits, sensors and hardware |
@@ -43,6 +41,8 @@ This GitHub is where I document that process — projects, experiments, engineer
 | 🛠️ **Manufacturing** | Prototyping, 3D printing and physical fabrication |
 
 ---
+
+<div align="center">
 
 ## 💻 Technologies & tools
 
@@ -66,6 +66,8 @@ This GitHub is where I document that process — projects, experiments, engineer
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+
+</div>
 
 ---
 
@@ -112,7 +114,11 @@ Both belong here.
 
 My approach is fairly simple:
 
+<div align="center">
+
 **learn → build → test → break → understand → improve → repeat**
+
+</div>
 
 I prefer hands-on work over keeping everything theoretical.
 
