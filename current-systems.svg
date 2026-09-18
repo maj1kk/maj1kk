@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">MAJ1KK Current Systems</title>
+  <desc id="desc">MARTIN, Robotics and Projects current systems interface.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0f16"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2f3b49"/>
+      <stop offset="50%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#2f3b49"/>
+    </linearGradient>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1c2632" stroke-width="1" opacity="0.32"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect x="1" y="1" width="1198" height="388" rx="10" fill="url(#bg)" stroke="#303b48" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="388" rx="10" fill="url(#grid)" opacity="0.45"/>
+
+  <!-- Header -->
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="52" y="48" fill="#e6edf3" font-size="22" font-weight="700" letter-spacing="2">CURRENT SYSTEMS</text>
+    <text x="1148" y="48" text-anchor="end" fill="#7d8b99" font-size="12" letter-spacing="2">MAJ1KK / 01</text>
+
+    <line x1="52" y1="67" x2="1148" y2="67" stroke="url(#line)" stroke-width="2"/>
+    <circle cx="52" cy="67" r="3" fill="#58a6ff" filter="url(#softGlow)"/>
+
+    <!-- Card 1 -->
+    <rect x="52" y="100" width="344" height="230" rx="7" fill="#0d141d" stroke="#394755" stroke-width="1.5"/>
+    <rect x="52" y="100" width="344" height="4" rx="2" fill="#58a6ff" opacity="0.9"/>
+
+    <text x="78" y="139" fill="#e6edf3" font-size="22" font-weight="700">MARTIN</text>
+    <text x="78" y="164" fill="#7d8b99" font-size="11" letter-spacing="2">PERSONAL AI SYSTEM</text>
+
+    <line x1="78" y1="184" x2="370" y2="184" stroke="#273442" stroke-width="1"/>
+
+    <text x="78" y="213" fill="#c9d1d9" font-size="14">Research &amp; Engineering</text>
+    <text x="78" y="237" fill="#c9d1d9" font-size="14">Knowledge &amp; Tools</text>
+    <text x="78" y="261" fill="#c9d1d9" font-size="14">Human–Machine Interaction</text>
+
+    <circle cx="82" cy="296" r="5" fill="#58a6ff" filter="url(#glow)"/>
+    <text x="97" y="301" fill="#8fc7ff" font-size="12" font-weight="700" letter-spacing="2">ACTIVE</text>
+
+    <!-- Card 2 -->
+    <rect x="428" y="100" width="344" height="230" rx="7" fill="#0d141d" stroke="#394755" stroke-width="1.5"/>
+    <rect x="428" y="100" width="344" height="4" rx="2" fill="#58a6ff" opacity="0.65"/>
+
+    <text x="454" y="139" fill="#e6edf3" font-size="22" font-weight="700">ROBOTICS</text>
+    <text x="454" y="164" fill="#7d8b99" font-size="11" letter-spacing="2">PHYSICAL SYSTEMS</text>
+
+    <line x1="454" y1="184" x2="746" y2="184" stroke="#273442" stroke-width="1"/>
+
+    <text x="454" y="213" fill="#c9d1d9" font-size="14">Control &amp; Electronics</text>
+    <text x="454" y="237" fill="#c9d1d9" font-size="14">Mechanisms &amp; Sensors</text>
+    <text x="454" y="261" fill="#c9d1d9" font-size="14">Physical AI</text>
+
+    <circle cx="458" cy="296" r="5" fill="#7d8b99"/>
+    <text x="473" y="301" fill="#aeb8c2" font-size="12" font-weight="700" letter-spacing="2">EXPLORING</text>
+
+    <!-- Card 3 -->
+    <rect x="804" y="100" width="344" height="230" rx="7" fill="#0d141d" stroke="#394755" stroke-width="1.5"/>
+    <rect x="804" y="100" width="344" height="4" rx="2" fill="#58a6ff" opacity="0.45"/>
+
+    <text x="830" y="139" fill="#e6edf3" font-size="22" font-weight="700">PROJECTS</text>
+    <text x="830" y="164" fill="#7d8b99" font-size="11" letter-spacing="2">BUILD &amp; PROTOTYPE</text>
+
+    <line x1="830" y1="184" x2="1122" y2="184" stroke="#273442" stroke-width="1"/>
+
+    <text x="830" y="213" fill="#c9d1d9" font-size="14">Hardware &amp; Software</text>
+    <text x="830" y="237" fill="#c9d1d9" font-size="14">Prototypes &amp; Testing</text>
+    <text x="830" y="261" fill="#c9d1d9" font-size="14">Engineering Notes</text>
+
+    <circle cx="834" cy="296" r="5" fill="#7d8b99"/>
+    <text x="849" y="301" fill="#aeb8c2" font-size="12" font-weight="700" letter-spacing="2">BUILDING</text>
+
+    <!-- Footer marks -->
+    <line x1="52" y1="351" x2="1148" y2="351" stroke="#273442" stroke-width="1"/>
+    <text x="52" y="371" fill="#566473" font-size="9" letter-spacing="2">EXPLORE / BUILD / IMPROVE</text>
+    <text x="1148" y="371" text-anchor="end" fill="#566473" font-size="9" letter-spacing="2">SYSTEM INTERFACE</text>
+  </g>
+</svg>
