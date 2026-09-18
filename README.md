@@ -1,264 +1,94 @@
-```{=html}
 <div align="center">
-```
-```{=html}
-<hr>
-```
-`<img src="./banner.png" alt="MAJ1KK banner">`{=html}
 
-```{=html}
 <hr>
-```
+
+<img src="./banner.png" alt="MAJ1KK banner">
+
+<hr>
+
 # MAJ1KK
 
 ### Engineering student · Robotics · AI · Electronics · Physics
 
-*Understanding how things work --- then building them.*
+*Understanding how things work — then building them.*
 
-```{=html}
 </div>
-```
 
-------------------------------------------------------------------------
+---
 
 ## 👋 About me
 
-I'm an engineering student focused on robotics and the development of
-physical and intelligent systems.
+I'm an engineering student focused on robotics and the development of physical and intelligent systems.
 
-My main interest lies at the intersection of **hardware, software and
-intelligence** --- from electronics and embedded systems to robotics,
-artificial intelligence and human--machine interaction.
+My main interest lies at the intersection of **hardware, software and intelligence** — from electronics and embedded systems to robotics, artificial intelligence and human–machine interaction.
 
-I like approaching problems from the fundamentals: understand the
-system, build a prototype, test the idea, find the weak points and
-improve it.
+I like approaching problems from the fundamentals: understand the system, build a prototype, test the idea, find the weak points and improve it.
 
-This GitHub is where I document that process --- projects, experiments,
-engineering notes, prototypes and the things I learn along the way.
+This GitHub is where I document that process — projects, experiments, engineering notes, prototypes and the things I learn along the way.
 
-------------------------------------------------------------------------
+---
 
-::: {align="center"}
+<div align="center">
+
 ## ⚙️ Areas of interest
 
-```{=html}
 <table>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<th>
-```
-Field
-```{=html}
-</th>
-```
-```{=html}
-<th>
-```
-Focus
-```{=html}
-</th>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td align="center">
-```
-`<b>`{=html}🤖 Robotics`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td align="center">
-```
-Robot systems, mechanisms, sensors and actuators
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td align="center">
-```
-`<b>`{=html}🧠 Artificial Intelligence`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td align="center">
-```
-AI, machine learning and physical AI
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td align="center">
-```
-`<b>`{=html}🔌 Electronics`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td align="center">
-```
-Circuits, sensors and hardware
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td align="center">
-```
-`<b>`{=html}💻 Embedded Systems`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td align="center">
-```
-Microcontrollers, firmware and real-time systems
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td align="center">
-```
-`<b>`{=html}📐 Control Systems`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td align="center">
-```
-Automation, feedback and motion control
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td align="center">
-```
-`<b>`{=html}⚛️ Physics`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td align="center">
-```
-Fundamentals, modelling and engineering applications
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td align="center">
-```
-`<b>`{=html}🦾 Human--Machine`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td align="center">
-```
-Interfaces, interaction and system integration
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td align="center">
-```
-`<b>`{=html}🧬 Bio / Neuroengineering`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td align="center">
-```
-BCI, neurotechnology and biological systems
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td align="center">
-```
-`<b>`{=html}🛠️ Manufacturing`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td align="center">
-```
-Prototyping, 3D printing and physical fabrication
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
+  <tr>
+    <th>Field</th>
+    <th>Focus</th>
+  </tr>
+  <tr>
+    <td align="center"><b>🤖 Robotics</b></td>
+    <td align="center">Robot systems, mechanisms, sensors and actuators</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧠 Artificial Intelligence</b></td>
+    <td align="center">AI, machine learning and physical AI</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🔌 Electronics</b></td>
+    <td align="center">Circuits, sensors and hardware</td>
+  </tr>
+  <tr>
+    <td align="center"><b>💻 Embedded Systems</b></td>
+    <td align="center">Microcontrollers, firmware and real-time systems</td>
+  </tr>
+  <tr>
+    <td align="center"><b>📐 Control Systems</b></td>
+    <td align="center">Automation, feedback and motion control</td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚛️ Physics</b></td>
+    <td align="center">Fundamentals, modelling and engineering applications</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🦾 Human–Machine</b></td>
+    <td align="center">Interfaces, interaction and system integration</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧬 Bio / Neuroengineering</b></td>
+    <td align="center">BCI, neurotechnology and biological systems</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🛠️ Manufacturing</b></td>
+    <td align="center">Prototyping, 3D printing and physical fabrication</td>
+  </tr>
 </table>
-```
-:::
 
-------------------------------------------------------------------------
+</div>
 
-::: {align="center"}
-`<img src="./current-systems.svg" alt="MAJ1KK Current Systems">`{=html}
-:::
+---
 
-------------------------------------------------------------------------
+<div align="center">
 
-::: {align="center"}
+<img src="./current-systems.svg" alt="MAJ1KK Current Systems">
+
+</div>
+
+---
+
+<div align="center">
+
 ## 💻 Technologies & tools
 
 ### Languages
@@ -273,56 +103,56 @@ Prototyping, 3D printing and physical fabrication
 
 ![Arduino](https://img.shields.io/badge/Arduino-111827?style=for-the-badge&logo=arduino&logoColor=00979D)
 ![ESP32](https://img.shields.io/badge/ESP32-111827?style=for-the-badge&logo=espressif&logoColor=E7352C)
-![Raspberry
-Pi](https://img.shields.io/badge/Raspberry_Pi-111827?style=for-the-badge&logo=raspberrypi&logoColor=C51A4A)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-111827?style=for-the-badge&logo=raspberrypi&logoColor=C51A4A)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
-![VS
-Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-:::
+![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
-------------------------------------------------------------------------
+</div>
+
+---
 
 ## 🚧 Projects
 
 ### 🤖 MARTIN
 
-A personal research and engineering AI system built around research,
-knowledge organization, engineering workflows and interaction with tools
-and other AI systems.
+A personal research and engineering AI system built around research, knowledge organization, engineering workflows and interaction with tools and other AI systems.
 
 The project brings together several areas I'm interested in:
 
--   AI and software
--   engineering and robotics
--   research and information processing
--   knowledge systems
--   human--machine interaction
+- AI and software
+- engineering and robotics
+- research and information processing
+- knowledge systems
+- human–machine interaction
 
-MARTIN is being developed as a long-term project, with the architecture
-evolving alongside the work.
+MARTIN is being developed as a long-term project, with the architecture evolving alongside the work.
 
-------------------------------------------------------------------------
+---
 
-::: {align="center"}
+<div align="center">
+
 ## 📊 GitHub activity
 
-`<br>`{=html}
+<br>
 
-`<img src="https://streak-stats.demolab.com/?user=maj1kk&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=8B949E" height="180">`{=html}
-:::
+<img src="https://streak-stats.demolab.com/?user=maj1kk&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=8B949E" height="180">
 
-------------------------------------------------------------------------
+</div>
+
+---
 
 ## 🧭 How I work
 
-::: {align="center"}
+<div align="center">
+
 ### **learn → build → test → break → understand → improve → repeat**
-:::
+
+</div>
 
 I prefer hands-on work over keeping everything theoretical.
 
@@ -330,16 +160,12 @@ A failed prototype is useful if it explains **why** it failed.
 
 The goal is to understand **why it works**.
 
-------------------------------------------------------------------------
+---
 
-```{=html}
 <div align="center">
-```
-```{=html}
+
 <hr>
-```
+
 ### EXPLORE · BUILD · IMPROVE
 
-```{=html}
 </div>
-```
