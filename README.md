@@ -1,8 +1,10 @@
-<p align="center">
-  <img src="./banner.png" alt="MAJ1KK banner">
-</p>
-
 <div align="center">
+
+────────────────────────────────────────
+
+<img src="./helllooooo.png" alt="MAJ1KK banner">
+
+────────────────────────────────────────
 
 # MAJ1KK
 
