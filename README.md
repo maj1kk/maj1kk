@@ -2,7 +2,7 @@
 
 ────────────────────────────────────────
 
-<img src="./helllooooo.png" alt="MAJ1KK banner">
+<img src="./banner.png" alt="MAJ1KK banner">
 
 ────────────────────────────────────────
 
